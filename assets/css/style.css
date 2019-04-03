@@ -1,0 +1,77 @@
+
+
+body {
+    background: #ff8e0d;
+}
+.gifDivTwo{
+   
+    font-family: 'Fredoka One', cursive;
+    display: inline-block;
+    margin-left: 10rem;
+    margin-bottom: 3rem;
+    align-content:  center;
+    text-align: center;
+    background-color: #fff; 
+    border: solid .3rem black;
+    border-radius: .5rem;
+    border: solid .2rem #0d0dff;
+}
+
+#gifsView{
+    
+    margin-top: 2rem;
+    
+    
+}
+
+.favShows {
+    background-color: #0d0dff;
+    text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   1px 1px 0 #000;
+   
+    
+}
+
+h1{
+    font-family: 'Fredoka One', cursive;
+    text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   1px 1px 0 #000;
+    font-size: 5rem;
+    color: #fff;
+}
+
+label {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5rem;color:white;
+    text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   1px 1px 0 #000;
+   
+}
+
+#gif-buttons {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5rem;   
+}
+
+input {
+    font-family: 'Fredoka One', cursive;
+   
+}
+
+#addGif {
+    background-color: #0d0dff;
+    text-shadow:
+   -1px -1px 0 #000,
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+   1px 1px 0 #000;
+}
